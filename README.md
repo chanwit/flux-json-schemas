@@ -1,6 +1,7 @@
 # Flux JSON Schemas
 
 This experimental repo contains an auto-generated Flux JSON schemas for VSCode.
+The pull requests to incorperate this feature into the Flux project are [here](https://github.com/fluxcd/flux2/pull/2107) and [here](https://github.com/fluxcd/pkg/pull/189).
 
 The schema requires the YAML extension. Here's how to find the settings for adding a new schema.
 
